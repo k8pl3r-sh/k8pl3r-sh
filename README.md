@@ -1,8 +1,6 @@
 <h1 align="center"><b>Hi , I'm K8pl3r </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=K8pl3r;CTF player;Cybersecurity enthusiast;" alt="Typing SVG" /></a>
-</p>
+
+   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <br>
@@ -22,7 +20,8 @@
 
 <p align="center">
 
-- **Languages**: <br>
+- **Languages**: 
+
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Shell](https://img.shields.io/badge/Shell%20-%2300599C.svg?style=for-the-badge&logo=shell&logoColor=white)
