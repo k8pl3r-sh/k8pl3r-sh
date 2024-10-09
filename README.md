@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 <br>
 
@@ -46,7 +46,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> CTF scoreboards </b>
 <br>
 
-<!-- TODO lien CTFtime + team member-->
+<a href="[CTFtime HackUTT team](https://ctftime.org/team/38331/)" target="_blank">
 
 <p>2023 :</p>
 <ul>
@@ -56,7 +56,9 @@
         
 <p>2024 :</p>
 <ul>
-    <li>...</li>
+    <li><b>HackSecuReims</b> 3/69 with HackUTT team</li>
+    <li><b>NorthSec</b> 28/82 with HackUTT team</li>
+    <li><b>LeHack</b> 6/320 with HackUTT team</li>
 </ul>
 
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
