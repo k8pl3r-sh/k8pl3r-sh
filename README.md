@@ -46,7 +46,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> CTF scoreboards </b>
 <br>
 
-<a href="[CTFtime HackUTT team](https://ctftime.org/team/38331/)" target="_blank">
+<a href="[CTFtime HackUTT team main results](https://ctftime.org/team/38331/)" target="_blank">
 
 <p>2023 :</p>
 <ul>
@@ -59,6 +59,13 @@
     <li><b>HackSecuReims</b> 3/69 with HackUTT team</li>
     <li><b>NorthSec</b> 28/82 with HackUTT team</li>
     <li><b>LeHack</b> 6/320 with HackUTT team</li>
+</ul>
+
+<p>2025 :</p>
+<ul>
+    <li><b>Insomni'Hack</b> 8 with HackUTT x Synacktiv</li>
+    <li><b>NorthSec</b> 22/98 with HackUTT team</li>
+    <li><b>PlaidCTF</b> 88/896 with HackUTT team</li>
 </ul>
 
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
